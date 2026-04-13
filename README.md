@@ -62,12 +62,9 @@ Create dashboards or pivot tables showing:
 • Total viewing per province 
 
 Task 4: Presentation to the CEO
-
-Prepare a 20-minute executive presentation including:
+ 20-minute executive presentation including:
 
 Overview of Your Approach
 
-• Business understanding
-• Data preparation process
-• Transformation logic
-• Analytical methodology
+• Business understanding, Recommendations and Insights
+
